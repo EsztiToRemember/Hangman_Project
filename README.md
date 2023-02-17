@@ -14,6 +14,7 @@ Game Settings
 The game settings can be adjusted at the top of the hangman.py file:
 
 'tries': the maximum number of guesses the player has
+
 'words': the list of words to choose from
 
 
